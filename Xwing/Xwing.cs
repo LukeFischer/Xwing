@@ -29,7 +29,7 @@ namespace Xwing
             Pen exPen = new Pen(Color.White);
             float scale = width / 100;
             float scaley = height / 100;
-
+            //ghjghj
             //Wing 1
             g.DrawLine(exPen, 232 * scale + x, 115 * scaley + y, 180 * scale + x, 50 * scaley + y);
             g.DrawLine(exPen, 140 * scale + x, 50 * scaley + y, 180 * scale + x, 50 * scaley + y);
